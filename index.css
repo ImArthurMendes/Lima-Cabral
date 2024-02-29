@@ -1,0 +1,52 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Popins' sans-serif;
+    font-weight: 600;
+}
+
+/* Estilo para o cabeçalho */
+header {
+    background-color: #0A192F;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+header nav a {
+    color: #F3F3F3;
+    font-size: 600;
+    padding: 24px;
+    text-decoration: none;
+}
+
+/* Estilos para o formulário */
+.form-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80%;
+}
+
+form {
+    max-width: 400px;
+    padding: 30px;
+    border: 0.5px solid #0A192F;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #0A192F;
+}
+
+input[type="file"] {
+    display: block;
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
