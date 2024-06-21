@@ -1,0 +1,1 @@
+Projeto em desenvolvimento junto com um colega da faculdade para calcular créditos de ICMS em boletos da Copel. Foco no desenvolvimento web usando JavaScript, HTML e CSS. Parceria para entregar solução eficiente e precisa, ainda em progresso.
